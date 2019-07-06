@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PlacApp</string>
+    <string name="main_title">placapp</string>
+    <string name="main_subtitle">Transforme seus jogos \nem momentos inesquecíveis.</string>
+    <string name="button_new_game">Novo Jogo</string>
+    <string name="button_exit">Sair</string>
+    <string name="developed_by">Desenvolvido por Heider Lopes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vamos_come_ar">Vamos Começar!</string>
+    <string name="qual_o_nome_do_evento">Qual o nome do evento?</string>
+    <string name="proximo">Proximo</string>
+    <string name="ex_liverpool">Ex.:Liverpool</string>
+    <string name="qual_o_time_adversario">Qual é o time adversario?</string>
+    <string name="reininciar_partida">Reininciar partida</string>
+    <string name="finalizar_partida">Finalizar partida</string>
+    <string name="gol">Gol</string>
+    <string name="visitante">Visitante</string>
+    <string name="casa">Casa</string>
+    <string name="nome_do_evento">Nome do evento</string>
+</resources>
